@@ -1,1 +1,18 @@
-ll
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- Main Task -->
+<head>
+    <meta charset="UTF-8">
+    <title>Script Lab 7</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <h1>Autumn Tiede 20222182</h1>
+    <h2><b>Bold</b></h2>
+    <h2><u>Underlined</u></h2>
+    <h2><i>Italics</i></h2>
+</body>
+
+</html>
