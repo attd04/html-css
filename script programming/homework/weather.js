@@ -35,8 +35,3 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 
-
-.location {
-  font-size: 18px;
-  color: black;
-}
